@@ -1,0 +1,26 @@
+# Core data
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Hugging Face — zero-shot classification & emotion analysis
+transformers>=4.40.0
+torch>=2.0.0
+sentencepiece>=0.1.99
+
+# LangChain ecosystem
+langchain>=0.2.0
+langchain-community>=0.2.0
+langchain-google-genai>=1.0.0
+langchain-chroma>=0.1.0
+
+# Vector store
+chromadb>=0.5.0
+
+# Gradio UI
+gradio>=4.0.0
+
+# Environment management
+python-dotenv>=1.0.0
+
+# Optional — speeds up tokenisation
+tokenizers>=0.15.0
