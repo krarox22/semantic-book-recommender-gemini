@@ -1,9 +1,6 @@
 # 📚 Semantic Book Recommender — Gemini Edition
 
 A semantic book recommendation system powered by **Google Gemini embeddings**, **LangChain**, **ChromaDB**, **Hugging Face Transformers**, and **Gradio**.
-
-This is a Gemini-powered fork of the [FreeCodeCamp LLM book recommender course](https://github.com/t-redactyl/llm-semantic-book-recommender). Every OpenAI call has been replaced with the Google Gemini API (`text-embedding-004`), which has a **free tier** available.
-
 ---
 
 ## ✨ Features
